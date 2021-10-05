@@ -1,0 +1,7 @@
+export const MODELS = {
+  USER_MODEL: 'USER_MODEL',
+};
+
+export const CONNECTIONS = {
+  DATABASE_CONNECTION: 'DATABASE_CONNECTION',
+};
